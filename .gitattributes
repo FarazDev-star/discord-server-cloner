@@ -1,0 +1,7 @@
+*.woff binary  
+docs/**/*.html linguist-vendored
+*.yml linguist-detectable=false
+*.ico binary
+*.tsx linguist-detectable
+
+*.htm linguist-vendored
